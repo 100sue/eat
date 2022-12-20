@@ -93,7 +93,7 @@
     </div>
   </template>
   
-  <script setup>
+<script setup>
  
 import { onMounted, ref } from 'vue'
 import ArrowLeftIcon from 'vue-material-design-icons/ArrowLeft.vue';
